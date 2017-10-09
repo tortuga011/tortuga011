@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #000;
-    background: transparent url("../img/portfolio/egg_shell.png") no-repeat scroll center center / cover;
+    background: #fffbf1;
 }
 
 header .container {
@@ -220,7 +220,7 @@ section.success a.active {
 }
 
 #portfolio {
-    background: transparent url("../img/portfolio/grunge_wall.png") no-repeat fixed center center / cover;
+    background: #fffbf1;
     color: #fcfcfc;
 }
 
@@ -291,13 +291,13 @@ section.success a.active {
 }
 
 #about {
-    background: transparent url("../img/portfolio/egg_shell.png") no-repeat fixed center center / cover;
+    background: #fffbf1;
     color: #0f0f0f;
 }
 
 
 #contact {
-    background: transparent url("../img/portfolio/grunge_wall.png") no-repeat fixed center center / cover;
+    background: #fffbf1;
     color: #fcfcfc;
 }
 
@@ -389,7 +389,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background: transparent url("../img/portfolio/egg_shell.png") no-repeat fixed center center / cover;
+    background: #fffbf1;
     color: black!important;
 }
 
@@ -399,7 +399,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background: transparent url("../img/portfolio/grunge_wall.png") no-repeat fixed center center / cover;
+    background: #fffbf1;
 }
 
 .btn-social {
