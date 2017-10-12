@@ -206,7 +206,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #0c0c0c;
+    color: #927f6c;;
 }
 
 @media(max-width:767px) {
@@ -506,15 +506,15 @@ footer .footer-below {
 
 /* bootstrap overrides*/
 .btn-default {
-    color: #FFF;
-    background-color: rgba(0, 0, 0, 0.64);
-    border-color: rgb(0, 0, 0);
+    color: #fffbf1;
+    background-color: #927f6c;
+    border-color: #927f6c;
 }
 
 .btn-default:hover {
-    color: #FFF;
-    background-color: rgb(0, 0, 0);
-    border-color: rgba(0, 0, 0, 0.64);
+    color: #927f6c;
+    background-color: #fffbf1;
+    border-color: #fffbf1;
 }
 
 .navbar-default .navbar-nav > .active > a,
