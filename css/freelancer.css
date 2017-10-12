@@ -206,7 +206,6 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #927f6c;
 }
 
 @media(max-width:767px) {
