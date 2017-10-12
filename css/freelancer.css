@@ -513,8 +513,8 @@ footer .footer-below {
 
 .btn-default:hover {
     color: #927f6c;
-    background-color: #927f6c;
-    border-color: #fffbf1;
+    background-color: #fffbf1;
+    border-color: #927f6c;
 }
 
 .navbar-default .navbar-nav > .active > a,
