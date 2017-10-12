@@ -197,7 +197,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #fffbf1;
 }
 
 section.success a,
@@ -206,7 +206,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #927f6c;;
+    color: #927f6c;
 }
 
 @media(max-width:767px) {
@@ -513,7 +513,7 @@ footer .footer-below {
 
 .btn-default:hover {
     color: #927f6c;
-    background-color: #fffbf1;
+    background-color: #927f6c;
     border-color: #fffbf1;
 }
 
