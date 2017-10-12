@@ -292,24 +292,24 @@ section.success a.active {
 
 #about {
     background: #fffbf1;
-    color: #0f0f0f;
+    color: #927f6c;
 }
 
 
 #contact {
     background: #fffbf1;
-    color: #fcfcfc;
+    color: #927f6c;
 }
 
 #contact h2 {
-    color: #000;
+    color: #927f6c;
 }
 
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #000;
+    color: #927f6c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
